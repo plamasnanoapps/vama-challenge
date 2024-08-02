@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vama Challenge</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="welcome">Welcome to</string>
+    <string name="app_title">VAMA Challenge</string>
+    <string name="open_itunes">Open in iTunes</string>
+    <string name="try_again">Try again</string>
+
+    <string name="error_gral">An error occurred. Please try again.</string>
+    <string name="error_internet">No internet connection.</string>
+
+</resources>
